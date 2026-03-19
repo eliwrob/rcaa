@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 385.46 77.26">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: AvenirLTPro-Book, 'Avenir LT Pro';
+        font-size: 15.67px;
+        letter-spacing: .5em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        letter-spacing: .24em;
+      }
+
+      .cls-2 {
+        font-family: PlayfairDisplay-Regular, 'Playfair Display';
+        font-size: 50.71px;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        letter-spacing: .21em;
+      }
+
+      .cls-6 {
+        letter-spacing: .23em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-2" transform="translate(2.33 43.3)"><tspan class="cls-4" x="0" y="0">RIVE</tspan><tspan class="cls-6" x="161.55" y="0">R</tspan><tspan class="cls-4" x="205.97" y="0" xml:space="preserve"> CIT</tspan><tspan class="cls-5" x="350.83" y="0">Y</tspan></text>
+      <text class="cls-1" transform="translate(78.44 72.75)"><tspan x="0" y="0">ASSET ADVISORS</tspan></text>
+      <line class="cls-3" x1="326.48" y1="67.99" x2="382.98" y2="67.99"/>
+      <line class="cls-3" x1="4.46" y1="67.99" x2="60.96" y2="67.99"/>
+    </g>
+  </g>
+</svg>
